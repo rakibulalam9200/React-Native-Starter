@@ -1,0 +1,12 @@
+{
+  "android": {
+    "image": "./assets/splash.png",
+    "backgroundColor": "#FFFFFF",
+    "resizeMode": "contain"
+  },
+  "ios": {
+    "image": "./assets/splash.png",
+    "backgroundColor": "#FFFFFF",
+    "resizeMode": "contain"
+  }
+}
